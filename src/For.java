@@ -1,4 +1,4 @@
-public class For {
+public class Exercise_2 {
     public static void main(String[] args) {
         long population = 10000000;
         int born = 14;
