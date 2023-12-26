@@ -1,6 +1,6 @@
 public class Exercise_2 {
     public static void main(String[] args) {
-        //long population = 10000000;
+        long population = 10000000;
         int born = 14;
         int death = 8;
         for (int i = 1; i <= 10; i++) {
